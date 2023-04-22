@@ -1,4 +1,4 @@
-#comentari de test 2
+#comentari de test 24
 from __future__ import print_function 
 from __future__ import division
 import torch
